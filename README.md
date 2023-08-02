@@ -10,7 +10,9 @@ It is a Movie streaming web-app (front-end) created using React.JS
 
 ![App Screenshot](https://github.com/Sakthi-Sairam/Movie-webApp-1st-React-website/blob/main/src/Screenshot%20(5).png?raw=true)
 
+[url=https://postimg.cc/jDjBJR2F][img]https://i.postimg.cc/jDjBJR2F/Screenshot-4.png[/img][/url]
 
+[url=https://postimg.cc/v4SkrC6H][img]https://i.postimg.cc/v4SkrC6H/Screenshot-5.png[/img][/url]
 
 ## Tech Stack
 
